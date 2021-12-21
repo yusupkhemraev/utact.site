@@ -471,3 +471,18 @@ footer h3{
 		font-size: 17px;
 	}
 }
+
+@media screen and (max-width: 350px){
+	.container{
+		width: 260px;
+	}
+
+	.intro_title{
+		font-size: 50px;
+	}
+
+	.intro_subtitle{
+		width: 230px;
+    	margin: 0 0 0 130px;
+	}
+}
